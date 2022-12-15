@@ -1,0 +1,6 @@
+- id: selene
+  name: Selene
+  description: Lint and static analysis of Lua code
+  entry: selene
+  language: rust
+  types: [lua]
